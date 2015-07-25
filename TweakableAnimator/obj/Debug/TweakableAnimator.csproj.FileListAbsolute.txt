@@ -1,0 +1,7 @@
+G:\Games\Steam\SteamApps\common\Kerbal Space Program\GameData\TweakableAnimator\Plugin\TweakableAnimator.dll
+G:\Games\Steam\SteamApps\common\Kerbal Space Program\GameData\TweakableAnimator\Plugin\TweakableAnimator.pdb
+G:\KSP Modding\plugin\TweakableAnimator\TweakableAnimator\TweakableAnimator\obj\Debug\TweakableAnimator.csprojResolveAssemblyReference.cache
+G:\KSP Modding\plugin\TweakableAnimator\TweakableAnimator\TweakableAnimator\obj\Debug\TweakableAnimator.dll
+G:\KSP Modding\plugin\TweakableAnimator\TweakableAnimator\TweakableAnimator\obj\Debug\TweakableAnimator.pdb
+G:\Games\Steam\SteamApps\common\Kerbal Space Program\GameData\MarkIVSystem\Plugins\TweakableAnimator.dll
+G:\Games\Steam\SteamApps\common\Kerbal Space Program\GameData\MarkIVSystem\Plugins\TweakableAnimator.pdb
